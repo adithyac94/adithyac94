@@ -4,9 +4,9 @@ Welcome to my GitHub profile.
 
 My name is Adithya - aka Adi👋
 
-I'm a Masters Student in Computer Science at Northeastern University and a Developer -> check my Git.
+I'm a Masters Student in Computer Science at Northeastern University and a Developer -> check my [Git](https://github.com/flyninja94?tab=repositories).
 
-👯 I’m looking for Co-Op/Internship oppurtunities in software developement starting from May-2021 -> check my resume
+👯 I’m looking for Co-Op/Internship oppurtunities in software developement starting from May-2021
 
 🥅 2021 Goals: Contribute more to Open Source projects.
 
