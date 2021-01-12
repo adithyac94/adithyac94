@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile.
 
-My name is Adithya - aka Adi👋
+My name is Adithya.👋
 
 I'm a Masters Student in Computer Science at Northeastern University and a Developer -> check my [Git](https://github.com/flyninja94?tab=repositories).
 
