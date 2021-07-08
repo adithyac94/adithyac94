@@ -10,7 +10,7 @@ I'm a Masters Student in Computer Science at Northeastern University and a Devel
 
 🥅 2021 Goals: Contribute more to Open Source projects.
 
-⚡ Fun fact: I love to read and listen to music.
+⚡ Fun fact: I love to read, play soccer and listen to music.
 
 ### Connect with me:
 
