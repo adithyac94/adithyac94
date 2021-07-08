@@ -37,8 +37,8 @@ I'm a Masters Student in Computer Science at Northeastern University and a Devel
 <br />
 
 ---
-<!--[instagram]: https://www.instagram.com/soulful_hobby/ -->
-[linkedin]: https://www.linkedin.com/in/adithya-c-510482b6/
+
+[linkedin]: https://www.linkedin.com/in/adithya-ne
 
 
 
