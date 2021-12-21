@@ -6,9 +6,9 @@ My name is Adithya.👋
 
 I'm a Masters Student in Computer Science at Northeastern University and a Developer -> check my [Git](https://github.com/flyninja94?tab=repositories).
 
-👯 I’m looking for Co-Op/Internship oppurtunities in software developement starting from May-2021
+👯 I’m looking for Full-Time oppurtunities in software developement starting from May-2022
 
-🥅 2021 Goals: Contribute more to Open Source projects.
+🥅 2022 Goals: Contribute more to Open Source projects.
 
 ⚡ Fun fact: I love to read, play soccer and listen to music.
 
