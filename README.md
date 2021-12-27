@@ -7,7 +7,7 @@ Welcome to my GitHub profile.
 
 I'm a Masters Student in Computer Science at Northeastern University and a Developer -> check my [Git](https://github.com/adithyac94?tab=repositories).
 
-👯 I’m looking for Full-Time opportunities in software developement starting from May-2022
+👯 I’m looking for Full-Time opportunities in Software Developement starting from May-2022
 
 🥅 2022 Goals: Learn, Grow & Contribute more to Open Source projects.
 
