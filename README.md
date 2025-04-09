@@ -1,17 +1,16 @@
 <p align="center">
 <img alt="GIF" src="https://github.com/adithyac94/adithyac94/blob/main/adigif.gif?raw=true" height="280" />
- <p/>
+<p/>
+
 <h1 align="center"> Hi! I'm Adithya <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
 Welcome to my GitHub profile.
 
-I'm a Masters Student in Computer Science at Northeastern University and a Developer -> check my [Git](https://github.com/adithyac94?tab=repositories).
+I'm a senior software engineer currently working at Expedia Group — check out my [GitHub](https://github.com/adithyac94?tab=repositories) to see what I’ve been building and contributing to.
 
-👯 I’m looking for Full-Time opportunities in Software Developement starting from May-2022
+🥅 Current Goals: Learn continuously, grow as a leader, and contribute more to open source projects.
 
-🥅 2022 Goals: Learn, Grow & Contribute more to Open Source projects.
-
-⚡ Fun fact: I love to read, play soccer and listen to music.
+⚡ Fun fact: I love to read, play soccer, and listen to music.
 
 <hr>
 
