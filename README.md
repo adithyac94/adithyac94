@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile.
 
-I'm a senior software engineer currently working at Expedia Group — check out my [GitHub](https://github.com/adithyac94?tab=repositories) to see what I’ve been building and contributing to.
+I'm a software engineer currently working at Expedia Group — check out my [GitHub](https://github.com/adithyac94?tab=repositories) to see what I’ve been building and contributing to.
 
 🥅 Current Goals: Learn continuously, grow as a leader, and contribute more to open source projects.
 
